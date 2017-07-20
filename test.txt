@@ -1,1 +1,2 @@
 git test one line¡£
+ test 1 i am test 1;
